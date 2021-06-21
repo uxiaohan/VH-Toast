@@ -13,7 +13,7 @@
 ## 调用
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/uxiaohan/uxiaohan-VH-Toast/vh.toast.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/uxiaohan/VH-Toast/lib/vh.toast.min.js"></script>
 ```
 
 **默认样式**
